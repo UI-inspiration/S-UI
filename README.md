@@ -19,6 +19,8 @@ The repository contains three folders, each representing a different dataset use
 ### 3. Enrico
 - This folder contains semantic extractions from the **Enrico dataset**.
 - As with SCapRepo, the YAML files are compressed in a `.tar.gz` file and are associated with the original Enrico dataset images by their filenames.
+- **Note**: Only the semantics used in the **quantitative experiment** are included.
+
 
 ## Usage
 
@@ -38,4 +40,4 @@ We would like to thank the creators of the **[SCapRepo dataset](https://github.c
 
 Please refer to their respective licenses and terms of use for any restrictions or guidelines regarding their data.
 
-Additionally, we acknowledge the **Mobbin** for providing screenshots, and we aim to release the 10k version of this dataset, used in our comparative study with designers, in the future after discussing IP considerations.
+Additionally, we acknowledge the **[Mobbin](https://mobbin.com)** for providing screenshots, and we aim to release the 10k version of this dataset, used in our comparative study with designers, in the future after discussing IP considerations.
