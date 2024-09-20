@@ -34,5 +34,8 @@ To access the semantic data, download the `.tar.gz` files from the respective fo
 
 ## Acknowledgments
 
-We would like to thank the creators of the **[SCapRepo dataset](https://github.com/Jl-wei/guing)** and the **[Enrico dataset](https://github.com/luileito/enrico)** for making their datasets available and supporting the research community. Please refer to their respective licenses and terms of use for any restrictions or guidelines regarding their data.
+We would like to thank the creators of the **[SCapRepo dataset](https://github.com/Jl-wei/guing)** and the **[Enrico dataset](https://github.com/luileito/enrico)** for making their datasets available and supporting the research community. 
+
+Please refer to their respective licenses and terms of use for any restrictions or guidelines regarding their data.
+
 Additionally, we acknowledge the **Mobbin** for providing screenshots, and we aim to release the 10k version of this dataset, used in our comparative study with designers, in the future after discussing IP considerations.
