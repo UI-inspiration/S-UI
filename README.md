@@ -1,4 +1,4 @@
-# S&UI Dataset: Semantic Extraction from Mobile UI Screens
+# S&UI Dataset
 
 Welcome to the **S&UI Dataset** repository, which provides semantic information extracted from mobile UI screenshots as part of our research on **Leveraging Multimodal Large Language Models (MLLM) for Inspirational User Interface Analysis**.
 
