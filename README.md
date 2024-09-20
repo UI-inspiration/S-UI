@@ -10,7 +10,7 @@ The repository contains three folders, each representing a different dataset use
 ### 1. Mobbin
 - This folder includes semantic extractions from the **Mobbin dataset**.
 - **Note**: The original images are not included due to intellectual property concerns. However, the YAML files containing the semantic annotations are available in the `.tar.gz` archive.
-  **Future Release**: The 10k version of the Mobbin dataset, which was used in the comparative study with designers, may be released later.
+- **Future Release**: The 10k version of the Mobbin dataset, which was used in the comparative study with designers, may be released later.
 
 ### 2. SCapRepo
 - This folder contains the semantic extractions from the **SCapRepo dataset**.
