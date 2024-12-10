@@ -1,6 +1,6 @@
 # S&UI Dataset
 
-Welcome to the **S&UI Dataset** repository, which provides semantic information extracted from mobile UI screenshots as part of our research on **Leveraging Multimodal LLM for Inspirational User Interface Analysis**.
+Welcome to the **S&UI Dataset** repository, which provides semantic information extracted from mobile UI screenshots as part of our research on **Leveraging Multimodal LLM for Inspirational User Interface Search**.
 
 ## Repository Structure
 
