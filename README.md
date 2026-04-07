@@ -1,6 +1,6 @@
 # S&UI Dataset
 
-Welcome to the **S&UI Dataset** repository, which provides semantic information extracted from mobile UI screenshots as part of our research on **Leveraging Multimodal LLM for Inspirational User Interface Search**.
+Welcome to the **S&UI Dataset** repository, which provides semantic information extracted from mobile UI screenshots as part of our research on **[Leveraging Multimodal LLM for Inspirational User Interface Search](https://dl.acm.org/doi/10.1145/3706598.3714213)** (CHI 2025).
 
 ## Repository Structure
 
@@ -42,7 +42,7 @@ Please refer to their respective licenses and terms of use for any restrictions 
 
 ## Citation
 
-If you use this dataset in your research, please cite our paper:
+This dataset is part of our CHI 2025 paper: **[Leveraging Multimodal LLM for Inspirational User Interface Search](https://dl.acm.org/doi/10.1145/3706598.3714213)**
 
 ```bibtex
 @inproceedings{park2025snui,
