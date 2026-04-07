@@ -40,4 +40,24 @@ We would like to thank the creators of the **[SCapRepo dataset](https://github.c
 
 Please refer to their respective licenses and terms of use for any restrictions or guidelines regarding their data.
 
-Additionally, we acknowledge the **[Mobbin](https://mobbin.com)** for providing screenshots, and we aim to release the 10k version of this dataset, used in our comparative study with designers, in the future after discussing IP considerations.
+## Citation
+
+If you use this dataset in your research, please cite our paper:
+
+```bibtex
+@inproceedings{park2025snui,
+  author = {Park, Seokhyeon and Song, Yumin and Lee, Soohyun and Kim, Jaeyoung and Seo, Jinwook},
+  title = {Leveraging Multimodal LLM for Inspirational User Interface Search},
+  year = {2025},
+  isbn = {9798400713941},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3706598.3714213},
+  doi = {10.1145/3706598.3714213},
+  booktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+  articleno = {579},
+  numpages = {22},
+  keywords = {Interface Design, UI Design, UI Retrieval, UI Search, Semantic Search, Multimodal LLM},
+  series = {CHI '25}
+}
+```
